@@ -54,7 +54,9 @@ Sur le graphique ci-contre, nous voyons que la Russie et la République Islamic 
 <br />
 
 Nous avons regarder les indicateurs pour la projetction ( les dépenses publiques des gouvernements). Après quelques traitements, nous obtenons le grapghique ci-contre. 
-Nous pouvons voir que les pays où l'évolution est croissante sont l'Inde, le Mexique et les USA. Les autres pays sélectionnés ont une évolution décroissante ou n'ont pas assez de valeurs pour la variable PIB par exemple la Chine. 
+Nous pouvons voir que les pays où l'évolution est croissante sont l'Inde, le Mexique et les USA. 
+
+Les autres pays sélectionnés ont une évolution décroissante ou n'ont pas assez de valeurs pour la variable PIB par exemple la Chine. 
 
 <br />
                                                                                                                                       
