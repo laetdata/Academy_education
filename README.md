@@ -34,3 +34,16 @@ Notre objectif était d'informer si le jeu de données pouvait informer les déc
                                                                                                                                       
 
 ---
+
+<div>
+    <img Align="left" alt="Academy" width="200px" src="https://github.com/laetdata/Academy_education/blob/main/img/modelisation 5.png" style="padding-right:10px;" />
+</div>
+<br />
+En faisant une analyse graphique, nous remarquons que de 2000 à 2015, nous avons huit pays qui se retrouvent chaque année dans le top dix. 
+Ce sont : l'Inde, la Chine, le Pakistan, l'Indonésie, les USA, le Bangladesh, le Nigeria et le Mexique. Ce sont donc les huit pays à fort 
+potentiel de clients.
+
+<br />
+                                                                                                                                      
+
+---
