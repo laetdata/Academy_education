@@ -63,6 +63,6 @@ Les autres pays sélectionnés ont une évolution décroissante ou n'ont pas ass
 
 ---
 
-Quand on regarde les indicteurs un à un, il y a un qui se détache des autres c'est l'Inde. La plupart du temps il est soit en premiière position ou en deuxième position. Il y a aussi les USA qui viennent souvent en deuxième ou troisième position. La Chine est aussi bien placé. Donc parmi les huit pays sélectionnés, la priorité revient à l'Inde, la Chine et les USA.
+Quand on regarde les indicteurs un à un, il y a un pays qui se détache des autres c'est l'Inde. La plupart du temps il est soit en premiière position ou en deuxième position. Il y a aussi les USA qui viennent souvent en deuxième ou troisième position. La Chine est aussi bien placé. Donc parmi les huit pays sélectionnés, la priorité revient à l'Inde, la Chine et les USA.
 
 
