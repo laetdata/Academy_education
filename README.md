@@ -36,7 +36,7 @@ Notre objectif était d'informer si le jeu de données pouvait informer les déc
 ---
 
 
- <img Align="left" alt="Academy" width="200px" src="https://github.com/laetdata/Academy_education/blob/main/img/"modelisation 5.png"" style="padding-right:10px;" />
+ <img Align="left" alt="Academy" width="200px" src="https://github.com/laetdata/Academy_education/blob/main/img/modelisation 5.png" style="padding-right:10px;" />
 
 <br />
 En faisant une analyse graphique, nous remarquons que de 2000 à 2015, nous avons huit pays qui se retrouvent chaque année dans le top dix. 
