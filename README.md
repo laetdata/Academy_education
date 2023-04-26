@@ -1,7 +1,7 @@
 # Academy_education
 
 <div>
-    <img Align="left" alt="Academy" width="55px" src="https://github.com/laetdata/laetdata/main/Academy_education/img/academy.png" style="padding-right:10px;" />
+    <img Align="left" alt="Academy" width="55px" src="https://github.com/laetdata/Academy_education/blob/main/img/academy.png" style="padding-right:10px;" />
 </div>
 <br />
                                                                                                                                            
