@@ -26,3 +26,11 @@ Pour cela, la start-up souhaite répondre à trois questions :
                                                                                                                                       
 
 ---
+Pour répondre aux questions, nous avons fait une analyse préexploratoire du jeu de données. 
+Nous avons analyser la qualité du jeu de données pour voir s'il peut répondre à nos questions. 
+Notre objectif était d'informer si le jeu de données pouvait informer les décisions d'ouverture vers de nouveaux pays. 
+
+<br />
+                                                                                                                                      
+
+---
