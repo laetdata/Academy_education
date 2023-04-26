@@ -41,9 +41,24 @@ Notre objectif était d'informer si le jeu de données pouvait informer les déc
 <br />
 En faisant une analyse graphique, nous remarquons que de 2000 à 2015, nous avons huit pays qui se retrouvent chaque année dans le top dix. 
 Ce sont : l'Inde, la Chine, le Pakistan, l'Indonésie, les USA, le Bangladesh, le Nigeria et le Mexique. Ce sont donc les huit pays à fort 
-potentiel de clients.
+potentiel de clients. 
+Sur le graphique ci-contre, nous voyons que la Russie et la République Islamic d'Iran faisait partie du top 10 en 2000.
 
 <br />
                                                                                                                                       
 
 ---
+
+<img Align="left" alt="Academy" width="400px" src="https://github.com/laetdata/Academy_education/blob/main/img/projection.png" style="padding-right:10px;" />
+
+<br />
+
+Nous avons regarder les indicateurs pour la projetction ( les dépenses publiques des gouvernements). Après quelques traitements, nous obtenons le grapghique ci-contre. 
+Nous pouvons voir que les pays où l'évolution est croissante sont l'Inde, le Mexique et les USA. Les autres pays sélectionnés ont une évolution décroissante ou n'ont pas assez de valeurs pour la variable PIB par exemple la Chine. 
+
+<br />
+                                                                                                                                      
+
+---
+
+
